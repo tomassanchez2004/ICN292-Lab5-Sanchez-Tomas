@@ -6,6 +6,7 @@ Desarrollo de una base de datos relacional para la empresa Andes Bike, utilizand
 - ICN292-Lab5-Sanchez-Tomas.pdf: Informe del laboratorio en formato PDF.
 - ICN292-Lab5-Sanchez-Tomas.sql: Script SQL para crear y consultar BBDD.
 - ICN292-Lab5-Sanchez-Tomas.png: Imagen del modelo entidad-relación.
+- ICN292-Lab5-Sanchez-Tomas.mwb: Modelo entidad-relación editable de la BBDD.
 ## Asignatura
 ICN292 – Sistemas de Información para la Gestión.
 ## Nombre
